@@ -1,0 +1,19 @@
+.index-div,
+.ramen-div,
+.spaghetti-div,
+.fries-div {
+    text-align: center;
+}
+
+.index-body,
+.ramen-body,
+.spaghetti-body,
+.fries-body {
+    font-family: "Lucida Console", "Courier New";
+}
+.recipes {
+    display: table;
+    margin: 0 auto;
+}
+
+
